@@ -1,0 +1,23 @@
+.leaderboard .r1{
+    height: 25vh;
+    width: 5vw;
+    clear: both;
+}
+.leaderboard .r2{
+    height: 30vh;
+    width: 5vw;
+    clear: both;
+}
+.leaderboard .r3{
+    height: 20vh;
+    width: 5vw;
+    clear: both;
+}
+.leaderboard img{
+    height: 20%;
+    width: 20%;
+}
+.leaderboard h2{
+    width: 5vw;
+    margin-right: 0;
+}

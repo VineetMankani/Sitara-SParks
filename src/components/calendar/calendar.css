@@ -1,0 +1,25 @@
+:root{
+    --calender-width: 35rem;
+}
+.calendar{
+    width: var(--calender-width);
+    height: 30rem;
+    background-color: #222228;
+    color: #fff;
+}
+
+.month{
+    background-color: #177058;
+}
+
+.month i{
+    font-size: 2.4rem;
+}
+
+.weekdays div{
+    width: calc(var(--calender-width)/7);
+}
+
+.dates div{
+    width: calc(var(--calender-width)/7);
+}

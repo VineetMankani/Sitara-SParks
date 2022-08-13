@@ -1,0 +1,11 @@
+.outer{
+    width: 24rem;
+    height: 12rem;
+    background-color: #00b4d8;
+}
+
+.inner{
+    width: 17rem;
+    height: 6rem;
+    background-color: #ade8f4;
+}

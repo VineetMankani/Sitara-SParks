@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Finlandica&family=Poppins:wght@300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+.calendar{
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
+
+.react-calendar{
+    border: 2px solid black;
+    border-radius: 18px;
+    padding: 0.4rem;
+    font-family: 'Poppins';
+}
+
+.react-calendar__navigation{
+    text-decoration: none;
+}
+
+.react-calendar__viewContainer{
+    background-color: #b5ecdd;
+    border-radius: 18px;
+}   
+
+.react-calendar__month-view__weekdays{
+    text-decoration: none;
+    background-color: #71b9a6;
+}
+
+.react-calendar__tile{
+    box-sizing: border-box;
+}
+
+.react-calendar__tile:hover{
+    padding: 1%;
+    border: 2px solid black;
+}
+
+.react-calendar__tile--now{
+    border: 2px solid black;
+    background-color:rgb(78, 182, 227);
+}
+
+.react-calendar__tile--now:hover{
+    border: 2px solid black;
+    background-color: aquamarine;
+}
+
+.react-calendar__tile:active{
+    border: 2px solid black;
+    background-color:aquamarine;
+}

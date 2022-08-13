@@ -1,0 +1,16 @@
+.navbar-header{
+    background-color:#0d47a1;
+}
+.navbar-body{
+    /* background-color:#90e0ef; */
+    background-color:#f1f3f5;
+    /* box-shadow: 0.5px 0.5px 8px 0px #FFF; */
+    font-weight: 500;
+}
+
+.navbar-brand{
+    color: #fff;
+    font-size: 1.8rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
